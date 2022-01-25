@@ -3,7 +3,36 @@
   width: 100px;
   height: 100px;
 }
+/* some additional style */
+.hot {
+}
+.special-card-style {
+  background-color: #5243c2 !important;
+}
+.icon {
+  /* padding-left: 15px;
+  padding-right: 5px; */
+  background-color: #3f87f5;
+  border-radius: 100%;
+  padding: 3px;
+  margin: 5px;
+}
+.other-icon {
+  background-color: hsl(215, 39%, 66%);
+  border-radius: 100%;
+  padding: 3px;
+  margin: 5px;
+  color: white;
+  font-weight: normal;
+}
 
+.package-color {
+  background-color: #e7c3dabb !important;
+}
+.package-button-text-color {
+  font-weight: 700 !important;
+  color: #3f87f5 !important;
+}
 .accordion-image-style {
   width: 564px;
   height: 364px;
